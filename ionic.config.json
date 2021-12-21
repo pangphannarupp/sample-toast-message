@@ -1,0 +1,7 @@
+{
+  "name": "sample-toast-message",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

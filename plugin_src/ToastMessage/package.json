@@ -1,0 +1,22 @@
+{
+  "name": "mcnc-plugin-toast-message",
+  "version": "1.0.0",
+  "description": "For showing message",
+  "cordova": {
+    "id": "mcnc-plugin-toast-message",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "mcnc",
+  "license": "ISC",
+  "dependencies": {
+    "@ionic-native/core": "^5.36.0"
+  }
+}
